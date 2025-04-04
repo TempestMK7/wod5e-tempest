@@ -259,8 +259,8 @@
   "url": "https://github.com/WoD5E-Developers/wod5e",
   "bugs": "https://github.com/WoD5E-Developers/wod5e/issues",
   "background": "systems/vtm5e/assets/images/wodcity.jpg",
-  "manifest": "https://github.com/WoD5E-Developers/wod5e/releases/download/5.0.11/system.json",
-  "download": "https://github.com/WoD5E-Developers/wod5e/releases/download/5.0.11/vtm5e.zip",
+  "manifest": "https://github.com/TempestMK7/wod5e-tempest/releases/download/1.0.0/system.json",
+  "download": "https://github.com/TempestMK7/wod5e-tempest/releases/download/1.0.0/vtm5e.zip",
   "flags": {
     "hotReload": {
       "extensions": [
